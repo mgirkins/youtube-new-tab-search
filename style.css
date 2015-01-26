@@ -1,0 +1,23 @@
+
+.new-tab-search {
+	padding: 7px;
+	font-size: 1em;
+	background-color: #F8F8F8;
+	width: 115px;
+	margin-left: 53.5%;
+	margin-top: 3px;
+	border: 1px solid #cccccc;
+	color: #7B7B7B;
+	text-decoration: none;
+}
+ a .new-tab-search:hover {
+	background-color: #F0F0F0;
+	text-decoration: none;
+}
+
+#masthead-search {
+	float: left;
+	width: 53%;
+	max-width: 600px;
+
+}
